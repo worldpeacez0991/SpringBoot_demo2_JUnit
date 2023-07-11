@@ -72,7 +72,8 @@
 Solution 1 applied in this project: Place your JUnit Test class file in the correct test folder 'SpringBoot_demo1\src\test\java\com\example\demo'<br/>
 <kbd><img src="1B_Solution1_import_cannot_be_found.PNG" width="500" /></kbd>
 </li>
-<li>Error 2: See file '2A_Error2_spring_test_cannot_detect_default_configuration.txt'<br/>
+<li>Error 2: <br/>18:04:35.291 [main] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.demo.HelloControllerTest]: HelloControllerTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+<br/>
 Solution 2 applied in this project: Edit the annotation to detect the files for Spring Test to work correctly<br/>
 <kbd><img src="2B_Solution2_cannot_detect_configuration.PNG" width="500" /></kbd>
 </li>
