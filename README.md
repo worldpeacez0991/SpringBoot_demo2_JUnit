@@ -1,4 +1,4 @@
-### Spring Boot Demo 1 Example
+### Spring Boot Demo 2 JUnit Example
 
 **Steps:**
 <ol>
@@ -27,7 +27,7 @@
 
 <li>Git clone this project  
 <ul>
-<li>$ git clone https://github.com/worldpeacez0991/SpringBoot_demo1.git  
+<li>$ git clone https://github.com/worldpeacez0991/SpringBoot_demo2_JUnit.git  
 </li>
 </ul>
 </li>
@@ -59,7 +59,7 @@
 </ol>
 
 Credits: https://spring.io/team<br/>
-Source: https://spring.io/quickstart
+Source: [https://spring.io/quickstart](https://spring.io/guides/gs/spring-boot/)https://spring.io/guides/gs/spring-boot/
 
 
 
