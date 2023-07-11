@@ -56,6 +56,28 @@
 </ul>
 <kbd><img src="Pic4.PNG" width="500" /></kbd>
 
+<br/>
+<li>Using command prompt, you could run curl to test your app</li>
+<ul>
+<li>$ curl localhost:8080</li>
+<li>$ curl localhost:8080/hello</li>
+</ul>
+<kbd><img src="Pic5.PNG" width="500" /></kbd>
+
+<br/>
+<li>For running JUnit Tests</li>
+<ul>
+<li>Error 1: Import cannot be found<br/>
+<kbd><img src="1A_Error1_import_cannot_be_found.PNG" width="500" /></kbd><br/>
+Solution 1 applied in this project: Place your JUnit Test class file in the correct test folder 'SpringBoot_demo1\src\test\java\com\example\demo'<br/>
+<kbd><img src="1B_Solution1_import_cannot_be_found.PNG" width="500" /></kbd>
+</li>
+<li>Error 2: See file '2A_Error2_spring_test_cannot_detect_default_configuration.txt'<br/>
+Solution 2 applied in this project: Edit the annotation to detect the files for Spring Test to work correctly<br/>
+<kbd><img src="2B_Solution2_cannot_detect_configuration.PNG" width="500" /></kbd>
+</li>
+</ul>
+
 </ol>
 
 Credits: https://spring.io/team<br/>
