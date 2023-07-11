@@ -76,7 +76,7 @@ Solution 1 applied in this project: Place your JUnit Test class file in the corr
 Solution 2 applied in this project: Edit the annotation to detect the files for Spring Test to work correctly<br/>
 <kbd><img src="2B_Solution2_cannot_detect_configuration.PNG" width="500" /></kbd>
 </li>
-</ul>d
+</ul>
 
 </ol>
 
